@@ -1,0 +1,19 @@
+{
+  "name": "ridecycle-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sphiri1/ridecycle-temp.git"
+  },
+  "author": "shannil phiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sphiri1/ridecycle-temp/issues"
+  },
+  "homepage": "https://github.com/sphiri1/ridecycle-temp#readme"
+}
